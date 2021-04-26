@@ -6,23 +6,23 @@ Total Rides:
 
 ![total_rides_pie](Resources/total_rides_pie.png)
 
-![ride_count_box](Resources/ride_count_box)
+![ride_count_box](Resources/ride_count_box.png)
 
 Total Drivers:
 
-![total_drivers_pie](Resources/total_drivers_pie)
+![total_drivers_pie](Resources/total_drivers_pie.png)
 
 Total Fares:
 
-![total_fares_pie](Resources/total_fares_pie)
+![total_fares_pie](Resources/total_fares_pie.png)
 
 Average fare per ride and driver:
 
-![bubble](Resources/bubble)
+![bubble](Resources/bubble.png)
 
 Total fare by city type:
 
-![total_fare_by_type](Resources/total_fare_by_type)
+![total_fare_by_type](Resources/total_fare_by_type.png)
 
 ## Summary
 1.	One recommendation I would make would be to try and attract more drivers to the rural city type because right now they are making up 6.8% of total fares, and 5.3% of total rides with only 2.6% of drivers.
